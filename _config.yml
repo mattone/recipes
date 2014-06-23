@@ -1,0 +1,4 @@
+name: Recipes
+markdown: redcarpet
+highlighter:  true
+baseurl:  /recipes
